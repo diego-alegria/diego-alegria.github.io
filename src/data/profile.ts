@@ -26,7 +26,7 @@ export const profile = {
   github: 'https://github.com/diego-alegria',
 
   email: 'diego.alegrial@gmail.com', // Completar con tu correo profesional
-  linkedin: 'https://www.linkedin.com/in/diego-alegria', // Completar con tu URL real de LinkedIn
+  linkedin: 'https://www.linkedin.com/in/diegoalegria', // Completar con tu URL real de LinkedIn
   cvUrl: '/cv/diego-alegria-cv.pdf',
   availability: 'Abierto a oportunidades laborales',
 }
